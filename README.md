@@ -14,7 +14,7 @@ I'm currently pursuing a Master's in Data Science, building upon my prior educat
 
 ## My Interests
 
-I'm passionate about bridging the gap between low-level computer architecture, software engineering, and cutting-edge data science and machine learning techniques. With my skills and experienc I'm looking to get into:
+I'm passionate about **integrating low-level computer architecture, software engineering**, and **advanced data science and machine learning techniques** to drive innovation. My goal is to leverage this unique combination of skills to contribute to **research and development** in cutting-edge fields. With my background and expertise, I'm looking to pursue opportunities in:
 
 - Research and Development (R&D) within the technology industry
 - AI/ML compiler and optimizer development
