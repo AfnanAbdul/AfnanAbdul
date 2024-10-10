@@ -6,8 +6,9 @@ I'm currently pursuing a Master's in Data Science, building upon my prior educat
 
 ### 🎓 Education
 - Master's in Data Science (In Progress)
-- Bachelor's in Electrical and Computer Engineering
-  - Minors: Mathematics, Computer Science
+-(Five-Year Dual Degree program with two minors):
+  - Bachelor of Science in Electrical Engineering, Minor in Applied Mathematics
+  - Bachelor of Science in Computer Engineering, Minor in Computer Science
 
 ### 💼 Professional Background
 - Software Engineering/Development in Industrial Automation
