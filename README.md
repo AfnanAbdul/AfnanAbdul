@@ -15,18 +15,21 @@ I'm currently pursuing a Master's in Data Science, building upon my prior educat
 
 ## My Interests
 
-I'm passionate about **integrating low-level computer architecture, software engineering**, and **advanced data science and machine learning techniques** to drive innovation. My goal is to leverage this unique combination of skills to contribute to **research and development** in cutting-edge fields. With my background and expertise, I'm looking to pursue opportunities in:
+I'm passionate about **integrating low-level computer architecture, software engineering**, and **advanced AI and machine learning techniques** to drive innovation. My goal is to leverage this unique combination of skills to contribute to **research and development** in cutting-edge fields. With my background and expertise, I'm looking to pursue opportunities in:
 
-- Research and Development (R&D) within the technology industry
+- Research and Development (R&D) in AI
+- Multimodal AI systems and generative models
 - AI/ML compiler and optimizer development
-- Optimizing AI workloads
-- Designing new programming abstractions for AI
+- Optimizing AI workloads and designing programming abstractions for AI
+- AI-driven media technologies, including music/audio and video AI research
+- AI-powered creative tools and applications
 
 ## 🌱 Current Focus
 
-- Deepening my knowledge in advanced data science and machine learning techniques
-- Exploring the intersection of hardware architecture and AI optimization
-- Staying updated with the latest developments in AI compiler technologies
+- Deepening my knowledge in advanced machine learning and generative AI
+- Exploring parallel computing architectures and GPU optimization
+- Working with large language models and responsible AI development
+- Staying updated with the latest developments in AI compiler technologies and high-performance computing
 
 ## 🤝 Giving Back: Tech for Social Good
 
